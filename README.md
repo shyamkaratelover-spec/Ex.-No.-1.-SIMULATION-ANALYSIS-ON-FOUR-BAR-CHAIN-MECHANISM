@@ -73,16 +73,17 @@
 ### 3. From b, draw a line perpendicular to BC.
 ### 4. From o, draw a line perpendicular to CD.
 ### 5. Intersection gives point c.
-![image]<img width="1920" height="1020" alt="Screenshot 2026-03-09 201854" src="https://github.com/user-attachments/assets/75bedf27-1376-483e-9aa4-2284b903631e" />
-![image]<img width="1144" height="827" alt="Screenshot 2026-03-09 202617" src="https://github.com/user-attachments/assets/3993e23e-9854-4865-9a14-065e42c2daf8" />
-![image]<img width="1132" height="838" alt="Screenshot 2026-03-09 202305" src="https://github.com/user-attachments/assets/4e2cf3ac-cb45-4f6a-9bd1-4c7f0e8c41d9" />
-![image]<img width="1137" height="829" alt="Screenshot 2026-03-09 202323" src="https://github.com/user-attachments/assets/16e4123c-d544-4d63-8c0e-69a8e735fa5a" />
-![image]<img width="1142" height="827" alt="Screenshot 2026-03-09 202751" src="https://github.com/user-attachments/assets/dea00447-0aef-4fb5-9bcd-8c8f2c88c211" />
-![image]<img width="1141" height="830" alt="Screenshot 2026-03-09 202805" src="https://github.com/user-attachments/assets/dfe25350-5727-464a-9578-0ddfc96c86f2" />
-
 
 
 ## Output:
+<img width="1920" height="1020" alt="Screenshot 2026-03-09 201854" src="https://github.com/user-attachments/assets/75bedf27-1376-483e-9aa4-2284b903631e" />
+<img width="1144" height="827" alt="Screenshot 2026-03-09 202617" src="https://github.com/user-attachments/assets/3993e23e-9854-4865-9a14-065e42c2daf8" />
+<img width="1132" height="838" alt="Screenshot 2026-03-09 202305" src="https://github.com/user-attachments/assets/4e2cf3ac-cb45-4f6a-9bd1-4c7f0e8c41d9" />
+<img width="1137" height="829" alt="Screenshot 2026-03-09 202323" src="https://github.com/user-attachments/assets/16e4123c-d544-4d63-8c0e-69a8e735fa5a" />
+<img width="1142" height="827" alt="Screenshot 2026-03-09 202751" src="https://github.com/user-attachments/assets/dea00447-0aef-4fb5-9bcd-8c8f2c88c211" />
+<img width="1141" height="830" alt="Screenshot 2026-03-09 202805" src="https://github.com/user-attachments/assets/dfe25350-5727-464a-9578-0ddfc96c86f2" />
+
+
 ###  Angular velocity at AB
 ###  ωAB​=10.47 rad/s.
 ###  Velocity at B
