@@ -54,6 +54,8 @@ Substitute the values:
 
 Enter **10.47 rad/s** in the simulator.
 
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
+
 ## Step 6: Run Position Analysis
 Run the position analysis simulation.  
 The configuration diagram of the four-bar mechanism will appear showing links **AB, BC, CD, and AD**.
@@ -84,7 +86,6 @@ Run the simulation to generate the **acceleration diagram**.
 
 ## Step 11: Observe Acceleration Results
 Observe the acceleration values of the links and points from the results table.
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
 
 ## Step 12: Capture Screenshots
